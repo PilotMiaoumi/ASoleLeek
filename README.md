@@ -1,4 +1,6 @@
 # ASoleLeek
+(Aptly named because I think its funny to call this project "A Sole Leek" and also cause its primarily for my library which is shared on Soulseek)
+
 Multithreaded Library Manager for my music library.
 
 A Multithreaded Library Manager
