@@ -1,4 +1,4 @@
-# Soleek
+# ASoleLeek
 Multithreaded Library Manager for my music library.
 
 A Multithreaded Library Manager
